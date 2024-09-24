@@ -1,0 +1,424 @@
+[
+    [
+      {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "answers": [
+          "A) Germany",
+          "B) Argentina",
+          "C) Brazil",
+          "D) Italy"
+      ],
+      "correctAnswer": "C) Brazil"
+      },
+      {
+          "question": "Which player holds the record for the most Grand Slam singles titles in men's tennis?",
+          "answers": [
+            "A) Rafael Nadal",
+            "B) Novak Djokovic (as of 2024)",
+            "C) Roger Federer",
+            "D) Pete Sampras"
+        ],
+        "correctAnswer": "B) Novak Djokovic (as of 2024)"  
+      },
+      {
+        "question": "Which team won the 2023 NBA Championship?",
+          "answers": [
+            "A) Golden State Warriors",
+            "B) Los Angeles Lakers",
+            "C) Miami Heat",
+            "D) Denver Nuggets"
+        ],
+        "correctAnswer": "D) Denver Nuggets"
+      },
+      {
+          "question": "Which country won the ICC Cricket World Cup in 2019",
+          "answers": [
+            "A) India",
+            "B) Australia",
+            "C) England",
+            "D) New Zealand"
+        ],
+        "correctAnswer": "C) England"
+      }
+    ],
+    [
+      {
+          "question": "Which city is known as the (Switzerland of Pakistan) due to its scenic beauty?",
+          "answers": [
+            "A) Lahore",
+            "B) Karachi",
+            "C) Swat",
+            "D) Islamabad"
+        ],
+        "correctAnswer": "C) Swat"
+      
+      },
+      {
+          "question": "Which of the following is the highest mountain in Pakistan?",
+          "answers": [
+            "A) Nanga Parbat",
+            "B) K2",
+            "C) Rakaposhi",
+            "D) Gasherbrum I"
+        ],
+        "correctAnswer": "B) K2"
+      },
+      {
+          "question": "Which city is famous for its historical Mohenjo-Daro archaeological site?",
+          "answers": [
+            "A) Peshawar",
+            "B) Lahore",
+            "C) Quetta",
+            "D) Larkana"
+        ],
+        "correctAnswer": "D) Larkana"
+      },
+      {
+          "question": "What is the name of the famous desert located in Punjab and Sindh?",
+          "answers": [
+            "A) Cholistan Desert",
+            "B) Thal Desert",
+            "C) Thar Desert",
+            "D) Kharan Desert"
+        ],
+        "correctAnswer": "A) Cholistan Desert"
+      }
+    ],
+    [
+      {
+          "question": "What is the largest planet in our solar system?",
+          "answers": [
+            "A) Earth",
+            "B) Jupiter",
+            "C) Mars",
+            "D) Saturn"
+        ],
+        "correctAnswer": "B) Jupiter"
+      },
+      {
+          "question": "Who wrote the famous play (Romeo and Juliet)?",
+          "answers": [
+            "A) William Shakespeare",
+            "B) Charles Dickens",
+            "C) Leo Tolstoy",
+            "D) Mark Twain"
+        ],
+        "correctAnswer": "A) William Shakespeare"
+      },
+      {
+          "question": "Which element is represented by the chemical symbol 'O'?",
+          "answers": [
+            "A) Gold",
+            "B) Silver",
+            "C) Oxygen",
+            "D) Hydrogen"
+        ],
+        "correctAnswer": "C) Oxygen"
+      },
+      {
+          "question": "Which country hosted the 2020 Summer Olympics (held in 2021 due to the pandemic)?",
+          "answers": [
+            "A) Japan",
+            "B) Brazil",
+            "C) China",
+            "D) USA"
+        ],
+        "correctAnswer": "A) Japan"
+      }
+    ],
+    [
+      {
+          "question": "Who is known as the (Father of the Nation) in Pakistan?",
+          "answers": [
+            "A) Allama Iqbal",
+            "B) Quaid-e-Azam Muhammad Ali Jinnah",
+            "C) Liaquat Ali Khan",
+            "D) Sir Syed Ahmed Khan"
+        ],
+        "correctAnswer": "B) Quaid-e-Azam Muhammad Ali Jinnah"
+      },
+      {
+          "question": "Which national hero of Pakistan is known as the (Poet of the East)?",
+          "answers": [
+            "A) Hafeez Jalandhari",
+            "B) Allama Muhammad Iqbal",
+            "C) Faiz Ahmed Faiz",
+            "D) Ahmed Faraz"
+        ],
+        "correctAnswer": "B) Allama Muhammad Iqbal"
+      },
+      {
+          "question": "Who was the first Prime Minister of Pakistan?",
+          "answers": [
+            "A) Liaquat Ali Khan",
+            "B) Zulfikar Ali Bhutto",
+            "C) Ayub Khan",
+            "D) Iskander Mirza"
+        ],
+        "correctAnswer": "A) Liaquat Ali Khan"
+      },
+      {
+          "question": "Which military officer was awarded Pakistan’s highest military award, Nishan-e-Haider, for his bravery during the Indo-Pakistani War of 1965?",
+          "answers": [
+            "A) Major Tufail Mohammad",
+            "B) Major Raja Aziz Bhatti",
+            "C) Captain Karnal Sher Khan",
+            "D) Lance Naik Muhammad Mahfuz"
+        ],
+        "correctAnswer": "B) Major Raja Aziz Bhatti"
+      }
+    ],
+    [
+      {
+          "question": "Which is the longest river in the world?",
+          "answers": [
+            "A) Nile",
+            "B) Amazon",
+            "C) Yangtze",
+            "D) Mississippi"
+        ],
+        "correctAnswer": "A) Nile"
+      },
+      {
+          "question": "Which river is known as the (Father of Rivers) in Pakistan?",
+          "answers": [
+            "A) Jhelum",
+            "B) Indus",
+            "C) Ravi",
+            "D) Chenab"
+        ],
+        "correctAnswer": "B) Indus"
+      },
+      {
+          "question": "The Ganges River flows through which two countries?",
+          "answers": [
+            "A) India and Bangladesh",
+            "B) India and Nepal",
+            "C) India and Pakistan",
+            "D) India and Bhutan"
+        ],
+        "correctAnswer": "A) India and Bangladesh"
+      },
+      {
+          "question": "Which river runs through the capital city of England, London?",
+          "answers": [
+            "A) Seine",
+            "B) Rhine",
+            "C) Thames",
+            "D) Danube"
+        ],
+        "correctAnswer": "C) Thames"
+      }
+    ],
+    [
+      {
+          "question": "What is the capital city of Pakistan?",
+          "answers": [
+            "A) Karachi",
+            "B) Lahore",
+            "C) Islamabad",
+            "D) Peshawar"
+        ],
+        "correctAnswer": "C) Islamabad"
+      },
+      {
+          "question": "Which mountain range runs along the northern border of Pakistan?",
+          "answers": [
+            "A) Andes",
+            "B) Alps",
+            "C) Himalayas",
+            "D) Rockies"
+        ],
+        "correctAnswer": "C) Himalayas"
+      },
+      {
+          "question": "Which is the official national language of Pakistan?",
+          "answers": [
+            "A) Punjabi",
+            "B) Sindhi",
+            "C) Urdu",
+            "D) English"
+        ],
+        "correctAnswer": "D) English"
+      },
+      {
+          "question": " In which year did Pakistan gain independence?",
+          "answers": [
+            "A) 1942",
+            "B) 1947",
+            "C) 1950",
+            "D) 1947"
+        ],
+        "correctAnswer": "D) 1947"
+      }
+    ],
+    [
+      {
+          "question": "What is the currency of Japan?",
+          "answers": [
+            "A) Won",
+            "B) Ringgit",
+            "C) Yen",
+            "D) Baht"
+        ],
+        "correctAnswer": "C) Yen"
+      },
+      {
+          "question": "Which currency is used in the United States?",
+          "answers": [
+            "A) Euro",
+            "B) Dollar",
+            "C) Pound",
+            "D) Franc"
+        ],
+        "correctAnswer": "B) Dollar"
+      },
+      {
+          "question": "What is the currency of the United Kingdom?",
+          "answers": [
+            "A) Pound Sterling",
+            "B) Euro",
+            "C) Dollar",
+            "D) Yen"
+        ],
+        "correctAnswer": "A) Pound Sterling"
+      },
+      {
+          "question": " Which currency is used in India?",
+          "answers": [
+            "A) Ringgit",
+            "B) Rupee",
+            "C) Peso",
+            "D) Dirham"
+        ],
+        "correctAnswer": "B) Rupee"
+      }
+    ],
+    [
+      {
+          "question": "What is the capital city of Saudi Arabia?",
+          "answers": [
+            "A) Jeddah",
+            "B) Riyadh",
+            "C) Mecca",
+            "D) Medina"
+        ],
+        "correctAnswer": "B) Riyadh"
+      },
+      {
+          "question": "Which of the following is a major religious site located in Mecca?",
+          "answers": [
+            "A) Dome of the Rock",
+            "B) Kaaba",
+            "C) Al-Aqsa Mosque",
+            "D) Hagia Sophia"
+        ],
+        "correctAnswer": "B) Kaaba"
+      },
+      {
+          "question": "In which year was Saudi Arabia established as a kingdom?",
+          "answers": [
+            "A) 1920",
+            "B) 1932",
+            "C) 1945",
+            "D) 1950"
+        ],
+        "correctAnswer": "B) 1932"
+      },
+      {
+          "question": "Which desert is the largest in Saudi Arabia?",
+          "answers": [
+            "A) Gobi Desert",
+            "B) Rub' al Khali (Empty Quarter)",
+            "C) Sahara Desert",
+            "D) Kalahari Desert"
+        ],
+        "correctAnswer": "B) Rub' al Khali (Empty Quarter)"
+      }
+    ],
+    [
+      {
+          "question": "Which flower is known for its association with love and is often given on Valentine’s Day?",
+          "answers": [
+            "A) Tulip",
+            "B) Rose",
+            "C) Lily",
+            "D) Orchid"
+        ],
+        "correctAnswer": "B) Rose"
+      },
+      {
+          "question": "What is the name of the flower that is commonly known as the national flower of Japan?",
+          "answers": [
+            "A) Chrysanthemum",
+            "B) Cherry Blossom",
+            "C) Lotus",
+            "D) Iris"
+        ],
+        "correctAnswer": "B) Cherry Blossom"
+      },
+      {
+          "question": "Which flower is famous for its ability to bloom in the desert and is also known as the (desert rose)?",
+          "answers": [
+            "A) Dandelion",
+            "B) Adenium",
+            "C) Sunflower",
+            "D) Marigold"
+        ],
+        "correctAnswer": "B) Adenium"
+      },
+      {
+          "question": "What is the name of the flower known for its distinctive purple color and is often used in culinary dishes?",
+          "answers": [
+            "A) Daisy",
+            "B) Lavender",
+            "C) Poppy",
+            "D) Sunflower"
+        ],
+        "correctAnswer": "B) Lavender"
+      }
+    ],
+    [
+      {
+          "question": "Which type of wood is commonly used for making fine furniture due to its durability and rich color?",
+          "answers": [
+            "A) Pine",
+            "B) Oak",
+            "C) Cedar",
+            "D) Bamboo"
+        ],
+        "correctAnswer": "B) Oak"
+      },
+      {
+          "question": "What is the term for wood that has been treated to resist decay and insect damage, often used in outdoor construction?",
+          "answers": [
+            "A) Hardwoods",
+            "B) Pressure-treated wood",
+            "C) Softwoods",
+            "D) Venee"
+        ],
+        "correctAnswer": "B) Pressure-treated wood"
+      },
+      {
+          "question": "Which tree produces a wood that is often used for carving and is known for its light weight and fine grain?",
+          "answers": [
+            "A) Oak",
+            "B) Maple",
+            "C) Basswood",
+            "D) Walnut"
+        ],
+        "correctAnswer": "C) Basswood"
+      },
+      {
+          "question": "Which type of wood is known for its resistance to water and is often used in boat building and outdoor applications?",
+          "answers": [
+            "A) Pine",
+            "B) Teak",
+            "C) Cherry",
+            "D) Ash"
+        ],
+        "correctAnswer": "B) Teak"
+      }
+    ]
+  ]
+  
